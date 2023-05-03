@@ -4,7 +4,7 @@
         <fullName>test</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>red</shortDescription>
+        <shortDescription>blue</shortDescription>
         <value>123</value>
     </labels>
 </CustomLabels>
