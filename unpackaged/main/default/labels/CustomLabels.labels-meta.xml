@@ -2,9 +2,9 @@
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
         <fullName>test</fullName>
-        <protected>true</protected>
+        <protected>false</protected>
         <language>en_US</language>
-        <shortDescription>red</shortDescription>
+        <shortDescription>yellow</shortDescription>
         <value>abc</value>
     </labels>
 </CustomLabels>
