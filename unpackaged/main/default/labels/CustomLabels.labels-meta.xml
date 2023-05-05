@@ -3,7 +3,7 @@
     <labels>
         <fullName>test</fullName>
         <language>en_US</language>
-        <protected>true</protected>
+        <protected>false</protected>
         <shortDescription>yellow</shortDescription>
         <value>abc</value>
     </labels>
