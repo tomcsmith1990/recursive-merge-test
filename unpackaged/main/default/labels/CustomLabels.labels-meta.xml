@@ -3,8 +3,8 @@
     <labels>
         <fullName>test</fullName>
         <language>en_US</language>
-        <shortDescription>red</shortDescription>
-        <protected>true</protected>
+        <shortDescription>yellow</shortDescription>
+        <protected>false</protected>
         <value>abc</value>
     </labels>
 </CustomLabels>
