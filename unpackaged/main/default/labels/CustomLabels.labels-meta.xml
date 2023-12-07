@@ -7,4 +7,11 @@
         <shortDescription>YELLOW</shortDescription>
         <value>abc</value>
     </labels>
+    <labels>
+        <fullName>ABC</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ABC</shortDescription>
+        <value>ABC</value>
+    </labels>
 </CustomLabels>
